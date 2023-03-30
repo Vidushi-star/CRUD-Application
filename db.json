@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Vidus",
+      "lastName": "Rastogi",
+      "email": "vidushi@gmail.com",
+      "dob": "2023-03-07T18:30:00.000Z",
+      "gender": "female",
+      "company": "Google",
+      "experience": "3",
+      "id": 3
+    },
+    {
+      "firstName": "Khushi",
+      "lastName": "Rastogi",
+      "email": "khushi@gmail.com",
+      "dob": "2017-02-06T18:30:00.000Z",
+      "gender": "female",
+      "company": "Google",
+      "experience": "4",
+      "id": 4
+    },
+    {
+      "firstName": "Shivaay",
+      "lastName": "Rastogi",
+      "email": "shivaay@gmail.com",
+      "dob": "2021-06-07T18:30:00.000Z",
+      "gender": "male",
+      "company": "Google",
+      "experience": "1",
+      "id": 5
+    },
+    {
+      "firstName": "Gauri",
+      "lastName": "Rastogi",
+      "email": "gauri@gmail.com",
+      "dob": "2023-03-07T18:30:00.000Z",
+      "gender": "female",
+      "company": "Google",
+      "experience": "2",
+      "id": 6
+    },
+    {
+      "firstName": "Vidu",
+      "lastName": "Rastogi",
+      "email": "vidushi@gmail.com",
+      "dob": "2023-03-07T18:30:00.000Z",
+      "gender": "female",
+      "company": "Google",
+      "experience": "3",
+      "id": 7
+    }
+  ]
+}
